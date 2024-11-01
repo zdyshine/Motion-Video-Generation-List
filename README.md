@@ -3,6 +3,8 @@
 # 好物推荐
 1.https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation   
 2.https://github.com/JosephPai/Awesome-Talking-Face
+3.https://github.com/harlanhong/awesome-talking-head-generation
+4.https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis
 
 
 # List
