@@ -1,5 +1,10 @@
 # Motion-Video-Generation-List
 
+# 参考网站
+1.https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation   
+2.https://github.com/JosephPai/Awesome-Talking-Face
+
+
 # List
 
 | index | method  | paper | code | Algorithm | Area |
