@@ -1,7 +1,19 @@
 # Video-Editing
 
 # 好物推荐
+## summary list
 1.https://paperswithcode.com/task/video-editing/latest   
+2.https://github.com/showlab/Awesome-Video-Diffusion  
+
+## code list
+1.https://github.com/huggingface/diffusers   
+2.https://github.com/THUDM/CogVideo    
+3.https://github.com/PKU-YuanGroup/Open-Sora-Plan    
+4.https://github.com/hpcaitech/Open-Sora    
+5.https://github.com/Lightricks/LTX-Video     
+6.https://github.com/Tencent/HunyuanVideo    
+7.https://github.com/VideoVerses/VideoTuna   
+8. https://github.com/Stability-AI/generative-models    
 
 
 # Motion-Video-Generation-List
@@ -11,6 +23,7 @@
 2.https://github.com/JosephPai/Awesome-Talking-Face    
 3.https://github.com/harlanhong/awesome-talking-head-generation    
 4.https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis
+ 
 
 
 # List
