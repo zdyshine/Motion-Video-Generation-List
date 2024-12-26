@@ -13,7 +13,9 @@
 5.https://github.com/Lightricks/LTX-Video     
 6.https://github.com/Tencent/HunyuanVideo    
 7.https://github.com/VideoVerses/VideoTuna   
-8. https://github.com/Stability-AI/generative-models    
+8.https://github.com/Stability-AI/generative-models    
+9.https://github.com/genmoai/mochi    
+10.https://github.com/jy0205/Pyramid-Flow    
 
 
 # Motion-Video-Generation-List
